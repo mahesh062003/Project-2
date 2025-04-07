@@ -17,7 +17,7 @@ from collections import Counter
 import nltk
 import string
 import whisper
-import sounddevice as sd
+
 import wave
 
 app = Flask(__name__)
